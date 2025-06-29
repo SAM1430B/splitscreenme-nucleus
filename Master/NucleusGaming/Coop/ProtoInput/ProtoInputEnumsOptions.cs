@@ -26,4 +26,10 @@
         IgnoreTopLeft,
         IgnoreBottomRight
     }
+
+    public enum SetRemoveBorderHook
+    {
+        True = 1,
+        DontWait
+    }
 }

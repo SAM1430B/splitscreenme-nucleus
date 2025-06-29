@@ -31,7 +31,7 @@ namespace Nucleus.Gaming.Coop.ProtoInput
         public bool SetWindowStyleHook;
         public MoveWindowHook MoveWindowHook;
         public bool AdjustWindowRectHook;
-        public bool SetRemoveBorderHook;
+        public SetRemoveBorderHook SetRemoveBorderHook;
 
         public bool RawInputFilter;
         public bool MouseMoveFilter;
